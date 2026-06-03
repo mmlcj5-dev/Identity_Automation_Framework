@@ -637,7 +637,7 @@ MIT License — see [`LICENSE`](LICENSE) for details.
 <div align="center">
 
 **Built for NTX Aerial · [ntxaerial.com](https://ntxaerial.com)**  
-IT Operations & Infrastructure · Frisco, TX
+IT Operations & Infrastructure · Little Elm, TX
 
 *Automating identity. Empowering teams.*
 
