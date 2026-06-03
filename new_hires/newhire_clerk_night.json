@@ -1,0 +1,12 @@
+{
+  "firstName": "Chris",
+  "lastName": "Evans",
+  "userPrincipalName": "cevans@ntxaerial.com",
+  "mailNickname": "cevans",
+  "temporaryPassword": "TempPass123!",
+  "department": "Warehouse",
+  "title": "Night Shift Clerk",
+  "location": "TX",
+  "jobLevel": "L1",
+  "onboardingCost": 600
+}

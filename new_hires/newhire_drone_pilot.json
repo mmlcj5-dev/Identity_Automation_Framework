@@ -1,0 +1,12 @@
+{
+  "firstName": "Alex",
+  "lastName": "Ramirez",
+  "userPrincipalName": "aramirez@ntxaerial.com",
+  "mailNickname": "aramirez",
+  "temporaryPassword": "TempPass123!",
+  "department": "Drone Operations",
+  "title": "Field Pilot",
+  "location": "TX",
+  "jobLevel": "L1",
+  "onboardingCost": 2500
+}
